@@ -1,8 +1,0 @@
-{
-  "name": "xiaohongshu",
-  "version": "1.0.0",
-  "type": "module",
-  "dependencies": {
-    "puppeteer-core": "^24.40.0"
-  }
-}
