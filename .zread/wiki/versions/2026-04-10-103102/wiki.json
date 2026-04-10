@@ -1,0 +1,228 @@
+{
+  "id": "2026-04-10-103102",
+  "generated_at": "2026-04-10T02:31:02.312929Z",
+  "language": "zh",
+  "pages": [
+    {
+      "slug": "1-gai-shu-claude-code-yuan-ma-huan-yuan-xiang-mu",
+      "title": "概述：Claude Code 源码还原项目",
+      "file": "1-gai-shu-claude-code-yuan-ma-huan-yuan-xiang-mu.md",
+      "section": "快速入门",
+      "level": "Beginner"
+    },
+    {
+      "slug": "2-kuai-su-qi-dong-huan-jing-da-jian-yu-yun-xing",
+      "title": "快速启动：环境搭建与运行",
+      "file": "2-kuai-su-qi-dong-huan-jing-da-jian-yu-yun-xing.md",
+      "section": "快速入门",
+      "level": "Beginner"
+    },
+    {
+      "slug": "3-huan-yuan-gong-cheng-shuo-ming-cong-source-map-dao-ke-yun-xing-yuan-ma",
+      "title": "还原工程说明：从 Source Map 到可运行源码",
+      "file": "3-huan-yuan-gong-cheng-shuo-ming-cong-source-map-dao-ke-yun-xing-yuan-ma.md",
+      "section": "快速入门",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "4-zheng-ti-jia-gou-cli-ru-kou-cha-xun-yin-qing-yu-hui-hua-sheng-ming-zhou-qi",
+      "title": "整体架构：CLI 入口、查询引擎与会话生命周期",
+      "file": "4-zheng-ti-jia-gou-cli-ru-kou-cha-xun-yin-qing-yu-hui-hua-sheng-ming-zhou-qi.md",
+      "section": "深入解析",
+      "group": "核心架构",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "5-gong-ju-xi-tong-50-nei-zhi-gong-ju-de-zhu-ce-diao-du-yu-quan-xian-guan-kong",
+      "title": "工具系统：50+ 内置工具的注册、调度与权限管控",
+      "file": "5-gong-ju-xi-tong-50-nei-zhi-gong-ju-de-zhu-ce-diao-du-yu-quan-xian-guan-kong.md",
+      "section": "深入解析",
+      "group": "核心架构",
+      "level": "Advanced"
+    },
+    {
+      "slug": "6-ming-ling-xi-tong-xie-gang-ming-ling-zhu-ce-feature-gate-yu-yong-hu-lei-xing-guo-lu",
+      "title": "命令系统：斜杠命令注册、Feature Gate 与用户类型过滤",
+      "file": "6-ming-ling-xi-tong-xie-gang-ming-ling-zhu-ce-feature-gate-yu-yong-hu-lei-xing-guo-lu.md",
+      "section": "深入解析",
+      "group": "核心架构",
+      "level": "Advanced"
+    },
+    {
+      "slug": "7-zhuang-tai-guan-li-react-zhuang-tai-shu-ying-yong-zhuang-tai-cun-chu-yu-xuan-ze-qi-mo-shi",
+      "title": "状态管理：React 状态树、应用状态存储与选择器模式",
+      "file": "7-zhuang-tai-guan-li-react-zhuang-tai-shu-ying-yong-zhuang-tai-cun-chu-yu-xuan-ze-qi-mo-shi.md",
+      "section": "深入解析",
+      "group": "核心架构",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "8-ink-ding-zhi-kuang-jia-zhong-duan-react-xuan-ran-qi-de-gua-pei-yu-kuo-zhan",
+      "title": "Ink 定制框架：终端 React 渲染器的适配与扩展",
+      "file": "8-ink-ding-zhi-kuang-jia-zhong-duan-react-xuan-ran-qi-de-gua-pei-yu-kuo-zhan.md",
+      "section": "深入解析",
+      "group": "终端渲染引擎",
+      "level": "Advanced"
+    },
+    {
+      "slug": "9-zu-jian-ti-xi-xiao-xi-xuan-ran-xu-ni-gun-dong-yu-jiao-hu-shi-dui-hua-kuang",
+      "title": "组件体系：消息渲染、虚拟滚动与交互式对话框",
+      "file": "9-zu-jian-ti-xi-xiao-xi-xuan-ran-xu-ni-gun-dong-yu-jiao-hu-shi-dui-hua-kuang.md",
+      "section": "深入解析",
+      "group": "终端渲染引擎",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "10-vim-bian-ji-mo-shi-zhong-duan-shu-ru-de-mo-tai-bian-ji-zhi-chi",
+      "title": "Vim 编辑模式：终端输入的模态编辑支持",
+      "file": "10-vim-bian-ji-mo-shi-zhong-duan-shu-ru-de-mo-tai-bian-ji-zhi-chi.md",
+      "section": "深入解析",
+      "group": "终端渲染引擎",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "11-buddy-zhong-duan-ai-dian-zi-chong-wu-xi-tong",
+      "title": "Buddy：终端 AI 电子宠物系统",
+      "file": "11-buddy-zhong-duan-ai-dian-zi-chong-wu-xi-tong.md",
+      "section": "深入解析",
+      "group": "隐藏功能揭秘",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "12-kairos-kua-hui-hua-chi-jiu-zhu-shou-yu-zi-dong-ji-yi-zheng-he",
+      "title": "Kairos：跨会话持久助手与自动记忆整合",
+      "file": "12-kairos-kua-hui-hua-chi-jiu-zhu-shou-yu-zi-dong-ji-yi-zheng-he.md",
+      "section": "深入解析",
+      "group": "隐藏功能揭秘",
+      "level": "Advanced"
+    },
+    {
+      "slug": "13-ultraplan-yun-duan-shen-du-gui-hua-yu-teleport-hui-hua-chuan-shu",
+      "title": "Ultraplan：云端深度规划与 Teleport 会话传输",
+      "file": "13-ultraplan-yun-duan-shen-du-gui-hua-yu-teleport-hui-hua-chuan-shu.md",
+      "section": "深入解析",
+      "group": "隐藏功能揭秘",
+      "level": "Advanced"
+    },
+    {
+      "slug": "14-coordinator-duo-agent-bian-pai-yu-worker-bing-xing-zhi-xing",
+      "title": "Coordinator：多 Agent 编排与 Worker 并行执行",
+      "file": "14-coordinator-duo-agent-bian-pai-yu-worker-bing-xing-zhi-xing.md",
+      "section": "深入解析",
+      "group": "隐藏功能揭秘",
+      "level": "Advanced"
+    },
+    {
+      "slug": "15-bridge-yuan-cheng-yao-kong-zhong-duan-de-websocket-shuang-xiang-tong-dao",
+      "title": "Bridge：远程遥控终端的 WebSocket 双向通道",
+      "file": "15-bridge-yuan-cheng-yao-kong-zhong-duan-de-websocket-shuang-xiang-tong-dao.md",
+      "section": "深入解析",
+      "group": "隐藏功能揭秘",
+      "level": "Advanced"
+    },
+    {
+      "slug": "16-san-ceng-men-kong-ti-xi-bian-yi-kai-guan-yong-hu-lei-xing-yu-yuan-cheng-feature-flag",
+      "title": "三层门控体系：编译开关、用户类型与远程 Feature Flag",
+      "file": "16-san-ceng-men-kong-ti-xi-bian-yi-kai-guan-yong-hu-lei-xing-yu-yuan-cheng-feature-flag.md",
+      "section": "深入解析",
+      "group": "功能门控机制",
+      "level": "Advanced"
+    },
+    {
+      "slug": "17-yin-cang-ming-ling-yu-mi-mi-cli-can-shu-quan-lan",
+      "title": "隐藏命令与秘密 CLI 参数全览",
+      "file": "17-yin-cang-ming-ling-yu-mi-mi-cli-can-shu-quan-lan.md",
+      "section": "深入解析",
+      "group": "功能门控机制",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "18-mcp-ji-cheng-mo-xing-shang-xia-wen-xie-yi-de-fu-wu-qi-guan-li-yu-gong-ju-qiao-jie",
+      "title": "MCP 集成：模型上下文协议的服务器管理与工具桥接",
+      "file": "18-mcp-ji-cheng-mo-xing-shang-xia-wen-xie-yi-de-fu-wu-qi-guan-li-yu-gong-ju-qiao-jie.md",
+      "section": "深入解析",
+      "group": "关键服务模块",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "19-shang-xia-wen-guan-li-token-yu-suan-shang-xia-wen-zhe-die-yu-ya-suo-ce-lue",
+      "title": "上下文管理：Token 预算、上下文折叠与压缩策略",
+      "file": "19-shang-xia-wen-guan-li-token-yu-suan-shang-xia-wen-zhe-die-yu-ya-suo-ce-lue.md",
+      "section": "深入解析",
+      "group": "关键服务模块",
+      "level": "Advanced"
+    },
+    {
+      "slug": "20-ji-yi-xi-tong-ge-ren-ji-yi-tuan-dui-ji-yi-yu-kua-xiang-mu-zhi-shi-chi-jiu-hua",
+      "title": "记忆系统：个人记忆、团队记忆与跨项目知识持久化",
+      "file": "20-ji-yi-xi-tong-ge-ren-ji-yi-tuan-dui-ji-yi-yu-kua-xiang-mu-zhi-shi-chi-jiu-hua.md",
+      "section": "深入解析",
+      "group": "关键服务模块",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "21-quan-xian-yu-sha-xiang-gong-ju-zhi-xing-shen-pi-liu-yu-an-quan-ge-chi-ji-zhi",
+      "title": "权限与沙箱：工具执行审批流与安全隔离机制",
+      "file": "21-quan-xian-yu-sha-xiang-gong-ju-zhi-xing-shen-pi-liu-yu-an-quan-ge-chi-ji-zhi.md",
+      "section": "深入解析",
+      "group": "关键服务模块",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "22-yuan-cheng-hui-hua-ssh-lian-jie-yuan-cheng-huan-jing-yu-direct-connect-hui-hua-guan-li",
+      "title": "远程会话：SSH 连接、远程环境与 Direct Connect 会话管理",
+      "file": "22-yuan-cheng-hui-hua-ssh-lian-jie-yuan-cheng-huan-jing-yu-direct-connect-hui-hua-guan-li.md",
+      "section": "深入解析",
+      "group": "关键服务模块",
+      "level": "Advanced"
+    },
+    {
+      "slug": "23-cha-jian-yu-ji-neng-xi-tong-cha-jian-jia-zai-ji-neng-fa-xian-yu-gong-zuo-liu-jiao-ben",
+      "title": "插件与技能系统：插件加载、技能发现与工作流脚本",
+      "file": "23-cha-jian-yu-ji-neng-xi-tong-cha-jian-jia-zai-ji-neng-fa-xian-yu-gong-zuo-liu-jiao-ben.md",
+      "section": "深入解析",
+      "group": "关键服务模块",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "24-pei-zhi-ti-xi-fen-ceng-pei-zhi-she-zhi-tong-bu-yu-tuo-guan-huan-jing-bian-liang",
+      "title": "配置体系：分层配置、设置同步与托管环境变量",
+      "file": "24-pei-zhi-ti-xi-fen-ceng-pei-zhi-she-zhi-tong-bu-yu-tuo-guan-huan-jing-bian-liang.md",
+      "section": "深入解析",
+      "group": "基础设施与工具链",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "25-ren-zheng-yu-ji-fei-oauth-liu-cheng-api-mi-yao-yan-zheng-yu-yong-liang-zhui-zong",
+      "title": "认证与计费：OAuth 流程、API 密钥验证与用量追踪",
+      "file": "25-ren-zheng-yu-ji-fei-oauth-liu-cheng-api-mi-yao-yan-zheng-yu-yong-liang-zhui-zong.md",
+      "section": "深入解析",
+      "group": "基础设施与工具链",
+      "level": "Advanced"
+    },
+    {
+      "slug": "26-git-shen-du-ji-cheng-chai-yi-fen-xi-ti-jiao-gui-shu-yu-worktree-mo-shi",
+      "title": "Git 深度集成：差异分析、提交归属与 Worktree 模式",
+      "file": "26-git-shen-du-ji-cheng-chai-yi-fen-xi-ti-jiao-gui-shu-yu-worktree-mo-shi.md",
+      "section": "深入解析",
+      "group": "基础设施与工具链",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "27-shim-ceng-yuan-sheng-napi-mo-kuai-yu-nei-bu-bao-de-jian-rong-gua-pei",
+      "title": "Shim 层：原生 NAPI 模块与内部包的兼容适配",
+      "file": "27-shim-ceng-yuan-sheng-napi-mo-kuai-yu-nei-bu-bao-de-jian-rong-gua-pei.md",
+      "section": "深入解析",
+      "group": "基础设施与工具链",
+      "level": "Advanced"
+    },
+    {
+      "slug": "28-yao-ce-yu-zhen-duan-opentelemetry-ji-cheng-xing-neng-pou-xi-yu-cuo-wu-shang-bao",
+      "title": "遥测与诊断：OpenTelemetry 集成、性能剖析与错误上报",
+      "file": "28-yao-ce-yu-zhen-duan-opentelemetry-ji-cheng-xing-neng-pou-xi-yu-cuo-wu-shang-bao.md",
+      "section": "深入解析",
+      "group": "基础设施与工具链",
+      "level": "Intermediate"
+    }
+  ]
+}
